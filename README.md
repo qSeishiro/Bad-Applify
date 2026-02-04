@@ -3,6 +3,8 @@
 
 An adaptation of this video: https://www.youtube.com/watch?v=fMXWmACfhmQ
 
+My extension showcase: soon
+
 A browser extension that turns YouTube into Bad Apple!!
 It replaces all video previews and avatars on the home page with a live Bad Apple video.
 
