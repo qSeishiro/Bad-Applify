@@ -64,7 +64,9 @@ function initBadApple() {
     document.head.appendChild(style);
 
     videoElement = document.createElement('video');
-    videoElement.src = chrome.runtime.getURL('bad_apple.mp4');
+    //videoElement.src = chrome.runtime.getURL('bad_apple.mp4');
+    videoElement.src = "https://cdn.jsdelivr.net/gh/qSeishiro/badapplevideo/babapal.mp4";
+    videoElement.crossOrigin = "anonymous";
     videoElement.loop = true;
     videoElement.muted = false; 
     videoElement.volume = currentVolume;
