@@ -21,4 +21,3 @@ It replaces all video previews and avatars on the home page with a live Bad Appl
 - Original Video: “Bad Apple!!” (Touhou Project)
 - Concept inspired by various “Bad Apple played on X” videos.
 
-Translated with DeepL.com (free version)
